@@ -3,11 +3,10 @@
 | Big O Notation | Computations for 100 elements | Computations for 1000 elements  | Project Criteria |
 | -------------- | ----------------------------- | ------------------------------- | ---------------- |
 | **O(1)**       | 1                             | 1                               | Find Routine     |
-| **O(log N)**   | 6                             | 9                               | All Teachers Routine |
 | **O(N)**       | 100                           | 1000                            | Publish/Unpublish |
 | **O(N^2)**     | 10000                         | 1000000                         | Read Routine & Course Offer | 
-| **O(2^N)**     | 1.26e+29                      | 1.07e+301                       |                  |
-| **O(N!)**      | 9.3e+157                      | 4.02e+2567                      |                  |
+| **O(2^N)**     | 1.26e+29                      | 1.07e+301                       | All Teachers Routine |
+
 
 ## Built With
 
