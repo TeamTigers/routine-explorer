@@ -11,12 +11,9 @@
 
 ## Built With
 
-* JSP
+* JSP , Java Servlet
 * Materialize CSS
-* Node JS
-* Ajax
-* jQuery
-* Java Servlet
+* Node JS , jQuery , Ajax
 
 ## Where to store database
 
