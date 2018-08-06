@@ -1,19 +1,4 @@
-## Built With
-
-| Functionality | Language |
-| ------------- | ------------- |
-| Web Component  | JSP  |
-| Design  | Materialize CSS  |
-| Dynamic Components  | Ajax, jQuery  |
-| Calculation  | Servlet  |
-
-## Homepage
-![alt text](https://github.com/TeamTigers-IT/Routine-Explorer-and-Analytical-Intelligence/blob/master/RE/homepage.png)
-
-
 ## Project Time Complexity Analysis
-
-
 
 | Big O Notation | Computations for 100 elements | Computations for 1000 elements  | Project Criteria |
 | -------------- | ----------------------------- | ------------------------------- | ---------------- |
@@ -25,11 +10,38 @@
 | **O(2^N)**     | 1.26e+29                      | 1.07e+301                       |                  |
 | **O(N!)**      | 9.3e+157                      | 4.02e+2567                      |                  |
 
-### Data Structure Operations Complexity
-        
-| Data Structure          | Access    | Search    | Insertion | Deletion  | Comments  |
-| ----------------------- | :-------: | :-------: | :-------: | :-------: | :-------- | 
-| **Array**               | 1         | n         | n         | n         |           |
-| **Stack**               | n         | n         | 1         | 1         |           |
-| **Queue**               | n         | n         | 1         | 1         |           | 
-| **Linked List**         | n         | n         | 1         | 1         |           |
+## Built With
+
+| Functionality | Language |
+| ------------- | ------------- |
+| Web Component  | JSP  |
+| Design  | Materialize CSS  |
+| Dynamic Components  | Ajax, jQuery  |
+| Calculation  | Servlet  |
+
+## Where to store database
+
+**Base DB**
+```
+.src/com/subPackage
+```
+
+**Updated DB**
+```
+this.getClass().getClassLoader().getResource("").getPath() + subPackage
+```
+
+**Run tests by server**
+```
+Apache tomcat 8.0.2
+```
+
+## Homepage
+![alt text](https://github.com/TeamTigers-IT/Routine-Explorer-and-Analytical-Intelligence/blob/master/RE/homepage.png)
+
+## Bugs for Teacher's Schedule
+![alt text](https://github.com/TeamTigers-IT/Routine-Explorer-and-Analytical-Intelligence/blob/master/RE/BugTeacherAll.png)
+
+## Bugs for Students Schedule
+![alt text](https://github.com/TeamTigers-IT/Routine-Explorer-and-Analytical-Intelligence/blob/master/RE/BugStudentAll.png)
+
