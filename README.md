@@ -11,12 +11,12 @@
 
 ## Built With
 
-                                                  | Functionality | Language |
-                                                  | ------------- | ------------- |
-                                                  | Web Component  | JSP  |
-                                                  | Design  | Materialize CSS  |
-                                                  | Dynamic Components  | Ajax, jQuery  |
-                                                  | Calculation  | Servlet  |
+* JSP
+* Materialize CSS
+* Node JS
+* Ajax
+* jQuery
+* Java Servlet
 
 ## Where to store database
 
