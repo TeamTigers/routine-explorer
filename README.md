@@ -1,3 +1,8 @@
+## Project Development Role
+* [Shunjid Rahman Showrov](https://www.facebook.com/showrov.diu.swe) : Lead Algorithmist, Design Architect
+* [Zubayer Alam Himel](https://www.facebook.com/zubayer.himel.5)     : Designer & Module Integrator
+* [Shah Fahad Hossain](https://www.facebook.com/shahfahad.hossain)   : Integration & Alpha Tester
+
 ## Project Time Complexity Analysis
 
 | Big O Notation | Computations for 100 elements | Computations for 1000 elements  | Project Criteria |
