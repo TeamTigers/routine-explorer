@@ -19,18 +19,6 @@
 * Materialize CSS
 * Node JS , jQuery , Ajax
 
-## Where to store database
-
-**Base DB & Updated DB**
-```
-.src/com/subPackage
-this.getClass().getClassLoader().getResource("").getPath() + subPackage
-```
-
-**Run tests by server**
-```
-Apache tomcat 8.0.2
-```
 
 ## Homepage
 ![alt text](https://github.com/TeamTigers-IT/Routine-Explorer-and-Analytical-Intelligence/blob/master/RE/homepage.png)
