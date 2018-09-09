@@ -55,7 +55,7 @@
 
 
 ## Homepage
-![alt text](https://github.com/TeamTigers-IT/Routine-Explorer-and-Analytical-Intelligence/blob/master/RE/homepage.png)
+![alt text](https://github.com/TeamTigers-IT/Routine-Explorer-and-Analytical-Intelligence/blob/master/RE/HomeIndex.png)
 
 ## Bug Report on Teacher's Schedule
 ![alt text](https://github.com/TeamTigers-IT/Routine-Explorer-and-Analytical-Intelligence/blob/master/RE/BugTeacherAll.png)
