@@ -1,0 +1,13 @@
+form{
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    display: block;
+    width: 60%;
+    max-width: 400px;
+    margin: 0;
+    padding: 2.25em;
+    box-sizing: border-box;
+    border: solid 1px #DDD;
+    border-radius: .5em;
+}
