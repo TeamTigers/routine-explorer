@@ -1,18 +1,14 @@
-# Routine Explorer
+# **Routine Explorer**
 
-A class routine explorer of DIU/SWE that helps finding class schedule from .xlsx file in a 6x6 GRID where student can find class schedule by selecting the routine version provided by the department and course code.
+A class routine explorer of DIU/SWE that helps finding class schedule from .xlsx file in a 6x6 GRID where student can find class schedule by selecting the routine version provided by the department and course code. Moreover, it **detects bugs produced** while upgrading routine version and reports according.
 
-## Built With
+## **Built With**
 
-* JSP , Java Servlet
+* Java (JSP/Servlet)
 * Materialize CSS
-* jQuery , Ajax
+* JavaScript (jQuery)
 
-## Snapshots
-
-### Homepage
-
-![alt text](assets/HomeIndex.png)
+## **Feature Snapshots**
 
 ### Bug Report on Teacher's Schedule
 
